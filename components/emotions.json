@@ -1,0 +1,71 @@
+{
+    "Negative and forceful": {
+        "Anger": "Anger is an intense emotion defined as a response to a perceived provocation, the invasion of one's boundaries, or a threat. \n\nFrom an evolutionary standpoint, anger servers to mobilise psychological resources in order to address the threat/ invasion. Anger is directed at an individual of equal status.",
+        "Annoyance": "Annoyance is an unpleasant state caused when one's regular thought process and actions are interrupted or disturbed.",
+        "Contempt": "Contempt is a mixture of disgust and anger, generally aimed at a lower status individual.",
+        "Disgust": "Disgust is an emotional response of revulsion to something considered offensive, distasteful, or unpleasant. Many researchers have theorised that the emotion of disgust has evolved as means of protecting us from disease. Disgust appears to be triggered by objects or people who possess particular characteristics that signify disease.",
+        "Irritation": "Irritation is a mild form of anger, a feeling of displeasure in response to something offensive or annoying."
+    },
+    "Negative and not in control": {
+        "Anxiety": "Anxiety is the dread over expected harmful events. From an evolutionary perspective, increased anxiety serves to increase vigilance to potential threats in the environment as well as increase the tendency to take proactive actions regarding such possible threats. \n\nThe body often mobilises itself to meet the perceived threat: Muscles become tense, breathing is faster, and the heart beats more rapidly.",
+        "Embarrassment": "Embarrassment is an emotional state of intense discomfort with oneself, experienced when having a socially unacceptable act witnessed by or revealed to others. It is similar to shame, except that shame may be experienced for an act known only to oneself. \n\nEmbarrassment is usually considered to be resulting from something that is merely socially unacceptable, rather than morally wrong.",
+        "Fear": "Fear is a response to real or immediate threats, resulting in an immediate alarm reaction that mobilises the organism and triggers a set of physiological changes. \n\nThese include rapid heartbeat, redirection of blood flow away from the periphery toward the gut, tensing of the muscles, and a general mobilisation of the organism to take action.",
+        "Helplessness": "Helplessness is the emotion felt when one perceives they have no control over a situation and cannot change it.",
+        "Powerlessness": "Powerlessness is the lack of ability, influence, or strength to change a situation. It is often accompanied by feelings of frustration and loss of hope.",
+        "Worry": "Worry refers to thoughts or actions that are made in an attempt to avoid anticipated potential threats. Worry arises as an attempt to anticipate all possible outcomes to a situation, or generate all possible solutions to a problem. \n\nWorry is then maintained as there are an infinite number of outcomes that can be generated, and the worrier is held in a state of worry, rather than engaging in constructive problem solving."
+    },
+    "Negative thoughts": {
+        "Doubt": "Doubt is a feeling of uncertainty or lack of conviction about something, often including fear of being wrong.",
+        "Envy": "Envy is an emotion which occurs when one lacks but desires another's perceived superior quality, achievement, or possession.",
+        "Frustration": "Frustration is an unpleasant response arising from the clash of an individual's will and an obstruction preventing it from materialising.",
+        "Guilt": "Guilt is an emotional experience that occurs when a person realises they have compromised their own standards of conduct or have violated a moral one and bears significant responsibility for that violation. From an evolutionary perspective, guilt is considered to have helped maintain healthy relationships.",
+        "Shame": "Shame is a painful, social emotion that can result from one's actions not meeting their own standards or the ideal social standards appropriate for the context."
+    },
+    "Negative and passive": {
+        "Boredom": "Boredom is an emotional or psychological state experienced when an individual is left without anything in particular to do, is not interested in his or her surroundings, or feels that a certain period is dull or tedious.",
+        "Despair": "Despair is an overwhelming sense of hopelessness or defeat, often accompanied by a perceived lack of options or solutions.",
+        "Disappointment": "Disappointment is the feeling of dissatisfaction resulting when expectations or hopes fail to manifest. The psychological results of disappointment vary greatly among individuals; while some recover quickly, others mire in frustration or blame, or become depressed.",
+        "Hurt": "Hurt is a profound emotional pain often caused by an act, remark, or situation that feels particularly personal, insulting, or betraying.",
+        "Sadness": "Sadness is emotional pain associated with, or encompassing feelings of disadvantage, loss, despair, grief, helplessness, disappointment, and sorrow. \n\nSadness is considered a transient emotional state."
+    },
+    "Agitation": {
+        "Stress": "Stress refers to a state of mental or emotional strain resulting from adverse or demanding circumstances.",
+        "Shock": "Shock is an emotional response to a negative, drastic change in one's environment. Not to be confused with Surprise, which is a response to a positive event.",
+        "Tension": "Tension is a mental or emotional state of restlessness or unease due to anticipation of a challenging event or situation."
+    },
+    "Positive and lively": {
+        "Amusement": "Amusement is the pleasure derived from encountering something that is diverting or entertaining.",
+        "Delight": "Delight is a high degree of pleasure or enjoyment; joy; rapture.",
+        "Elation": "Elation is a feeling of great joy, pride, or euphoria, often stemming from success, achievement, or a well-received outcome.",
+        "Excitement": "Excitement is the state of being enthusiastic over anticipated positive events.",
+        "Happiness": "Happiness is an emotional state of wellbeing encompassing positive or pleasant emotions such as satisfaction or contentment.",
+        "Joy": "Joy is an intense and especially ecstatic or exultant happiness, often felt when experiencing something deeply satisfying or valued.",
+        "Pleasure": "Pleasure is an encompassing term describing the broad class of mental states that humans and other animals experience as positive, enjoyable, or worth seeking."
+    },
+    "Caring": {
+        "Affection": "Affection is a gentle feeling of fondness, caring or liking towards someone or something.",
+        "Empathy": "Empathy means understanding a person from his or her frame of reference rather than one's own, or vicariously experiencing that person's feelings, perceptions, and thoughts.\n\nEmpathy does not, of itself, entail motivation to be of assistance, although it may turn into sympathy or personal distress, which may result in action.",
+        "Friendliness": "Friendliness is the quality of being amiable, warm, and approachable, often characterized by a readiness to help or support others.",
+        "Love": "Love refers to a complex emotion involving strong feelings of affection, attraction and personal attachment, pleasurable sensations in another's presence as well as devotion to their well-being."
+    },
+    "Positive thoughts": {
+        "Pride": "Pride is a self-conscious emotion that occurs when a goal has been attained and one's achievement has been recognised and approved by others. It differs from happiness, which does not require the approval of others to be experienced.",
+        "Courage": "Courage is defined as strength in the face of danger, pain, pressure, uncertainty, or intimidation.",
+        "Hope": "Hope is an optimistic attitude based on an expectation of positive outcomes. It is considered to require the following thought components:\n\n- goals, or having clearly defined objectives.\n\n- agency, or the individual's confidence in their ability to influence their environment.\n\n- and pathway, or the individual's confidence in their ability to determine the ways in which they could achieve their goals.",
+        "Humility": "Humility is a modest view of one's own importance; it refrains from excessive self-praise or the seeking of acclaim, and fosters a recognition of interdependence and appreciation for others.",
+        "Satisfaction": "Satisfaction is the fulfillment of one’s wishes, expectations, or needs, or the pleasure derived from this fulfillment.",
+        "Trust": "Trust can be defined as the willingness of one party to rely on the actions of another and forego control over the other party's actions. Honesty, fairness and benevolence in the other party are considered to be prerequisites for trust."
+    },
+    "Quiet positive": {
+        "Calmness": "Calmness is a state of peace and serenity, free from stress or emotion.",
+        "Contentment": "Contentment is an emotional state of satisfaction derived from one having accepted their condition, usually in disfavour of pursuing their grander ambitions.",
+        "Relaxation": "Relaxation is the state of being free from tension and anxiety, often after a period of physical or mental activity.",
+        "Relief": "Relief is a feeling of reassurance and relaxation following release from anxiety or distress.",
+        "Serenity": "Serenity is the state of being calm, peaceful, and untroubled, offering a sense of harmony with one's environment."
+    },
+    "Reactive": {
+        "Interest": "Interest is a feeling of curiosity or concern about something or someone, which can lead to engagement and learning.",
+        "Politeness": "Politeness is the behavior that is respectful and considerate of other people.",
+        "Surprise": "Surprise is a brief emotional state experienced as the result of an unexpected, but significant, positive event. Not to be confused with Shock, which is the response to a sudden negative event."
+    }
+}
