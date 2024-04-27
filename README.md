@@ -2,8 +2,6 @@
 
 Emotion Tracker is a React Native / Expo app for users who want to record the emotions they experience over time. The aim is to become better at listening to your feelings and more literate in describing how you're feeling. The app supports both Android and iOS devices.
 
-https://github.com/humfrey/Emotion-Tracker-App/assets/28514479/a9d4b17c-e01e-4fb0-a57b-e90c02cac080
-
 ## Features
 
 - **Record Emotion**: Users can record their current emotion, selecting using a two-level hierachy (e.g. Positive -> Joyful)
@@ -18,6 +16,10 @@ _Humaine (Human-Machine Interaction Network on Emotion) (2006). Emotion Annotati
 
 _Williams, L., Arribas-Ayllon, M., Artemiou, A. et al. Comparing the Utility of Different Classification Schemes for Emotive Language Analysis. J Classif 36, 619–648 (2019). https://doi.org/10.1007/s00357-019-9307-0_
 
-### Contact
+## Video walkthrough of the app
+
+https://github.com/humfrey/Emotion-Tracker-App/assets/28514479/a9d4b17c-e01e-4fb0-a57b-e90c02cac080
+
+## Contact
 
 Twitter: @humfrey
