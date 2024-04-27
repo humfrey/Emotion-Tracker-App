@@ -7,6 +7,7 @@ Emotion Tracker is a React Native / Expo app for users who want to record the em
 - **Record Emotion**: Users can record their current emotion, selecting using a two-level hierachy (e.g. Positive -> Joyful)
 - **View Emotion History**: Users can view their past recorded emotions, and remove any added in error
 - **View Random Emotion**: Users can expand their emotional vocabulary by viewing the description for a random emotion they haven't yet recorded.
+- **Notifications**: Users receive a prompt to record their feelings at set times throughout the day
 
 ## Taxonomy of Emotions
 
